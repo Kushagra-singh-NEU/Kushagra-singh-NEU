@@ -12,9 +12,6 @@ Welcome to my data universe! I'm Kushagra, a dedicated Data Analytics Engineer c
 - 🌱 Enthusiastic about leveraging data to extract meaningful insights and drive strategic decision-making.
 - 💡 Passionate about staying on the cutting edge of data science and technology.
 
-<div align="right">
-  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F53e2d5e6937554a96b9299b5d38e39080ab9281af5c888aa5b06b86312ccdccd%2F68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41&tbnid=PXLAloFJw---QM&vet=12ahUKEwjg_NfKxIOEAxXCG2IAHVo1DlMQMygZegUIARCdAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Famigujarathi&docid=ygE77mHUFH-FRM&w=800&h=600&q=coding%20gif%20for%20github&ved=2ahUKEwjg_NfKxIOEAxXCG2IAHVo1DlMQMygZegUIARCdAQ.gif" width="200" height="200" alt="Data Science GIF">
-</div>
 
 ## 🎓 Education
 
