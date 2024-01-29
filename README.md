@@ -12,7 +12,9 @@ Welcome to my data universe! I'm Kushagra, a dedicated Data Analytics Engineer c
 - 🌱 Enthusiastic about leveraging data to extract meaningful insights and drive strategic decision-making.
 - 💡 Passionate about staying on the cutting edge of data science and technology.
 
-![Data Science GIF]([https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdnl.iconscout.com%2Flottie%2Fpremium%2Fthumb%2Fdata-science-system-8241500-6590107.gif&tbnid=_nRFs6VGpxi4mM&vet=12ahUKEwjhiZ_Ew4OEAxW4JGIAHR2tCjMQMyhCegUIARC9Ag..i&imgrefurl=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Finfographic-science&docid=r_yg-bnvCXu-kM&w=274&h=274&q=data%20science%20gif&ved=2ahUKEwjhiZ_Ew4OEAxW4JGIAHR2tCjMQMyhCegUIARC9Ag](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5769fc401b631bab1addb2ab%2F1541580611624-TE64QGKRJG8SWAIUS7NS%2Fke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o%2Fcoding-freak.gif&tbnid=dbrfb5dvHO4gVM&vet=12ahUKEwjdkMTlw4OEAxVjOlkFHUcYDSIQMygAegQIARBN..i&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&w=800&h=600&q=coding%20gip%20for%20github&ved=2ahUKEwjdkMTlw4OEAxVjOlkFHUcYDSIQMygAegQIARBN))
+<div align="right">
+  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F53e2d5e6937554a96b9299b5d38e39080ab9281af5c888aa5b06b86312ccdccd%2F68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41&tbnid=PXLAloFJw---QM&vet=12ahUKEwjg_NfKxIOEAxXCG2IAHVo1DlMQMygZegUIARCdAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Famigujarathi&docid=ygE77mHUFH-FRM&w=800&h=600&q=coding%20gif%20for%20github&ved=2ahUKEwjg_NfKxIOEAxXCG2IAHVo1DlMQMygZegUIARCdAQ.gif" width="200" height="200" alt="Data Science GIF">
+</div>
 
 ## 🎓 Education
 
@@ -20,60 +22,77 @@ Welcome to my data universe! I'm Kushagra, a dedicated Data Analytics Engineer c
   - Northeastern University, Boston, Massachusetts
   - Sep 2022 - May 2024
   - **Courses:** Database Management & Design, Data Mining, Computation and Visualization, Machine Learning, Engineering Project Management, Foundation of Data Analytics, Operational Research, and more.
+ 
+
+## 🛠️ Skills
+
+- **Languages:** 
+  - Python (Pandas, Numpy, Scikit-Learn, Matplotlib), SQL, R
+- **Visualization/ BI Tools:** 
+  - Tableau, Power BI, VBA, Alteryx, MS Excel, R-Shiny, Jupyter, R Studio
+- **Database Technologies:** 
+  - Snowflake, MySQL, SQL Server, NoSQL, PostgreSQL, Oracle SQL, MongoDB
+- **Cloud Technologies:** 
+  - AWS, Microsoft Azure, GCP
+- **Data Engineering:** 
+  - PySpark, Airflow, Snowflake
+- **Machine Learning:** 
+  - Linear and Logistic Regression, Lasso and Ridge Regression, Clustering Algorithms
+
 
 ## 🚀 Featured Projects
 
 ### Customer Segmentation with Machine Learning
-![Customer Segmentation GIF](URL to Customer Segmentation GIF)
+
 - Implemented unsupervised machine learning for customer segmentation.
 - Achieved a 20% increase in sales revenue and improved customer loyalty.
 
 ### Formula 1 Data Analysis and Reporting
-![Formula 1 Data Analysis GIF](URL to Formula 1 Data Analysis GIF)
+
 - Automated Formula 1 racing data ingestion, reducing time by 50%.
 - Created insightful metrics and dashboards using Power BI.
 
 ### COVID-19 Exploratory Analysis
-![COVID-19 Analysis GIF](URL to COVID-19 Analysis GIF)
+
 - Leveraged Azure Data Factory for exploratory analysis on COVID-19 data.
 - Optimized Power BI dashboards for regional-wise and demographic-wise trend analysis.
 
 ### South Korea Steel Industry Data Analysis
-![Steel Industry Analysis GIF](URL to Steel Industry Analysis GIF)
+
 - Conducted exploratory data analysis on 35,000+ records.
 - Identified trends and patterns in the South Korea steel industry.
 
 ### Validate Synthetic and Real-world Data Using Clustering Techniques
-![Data Validation GIF](URL to Data Validation GIF)
+
 - Implemented clustering methods for data validation with 85% accuracy.
 - Grouped similar countries in the World Indicator dataset.
 
 ### Heathcare Management System
-![Healthcare Management GIF](URL to Healthcare Management GIF)
+
 - Engineered a robust Healthcare Management System on SQL Server.
 - Implemented advanced SQL features for efficient patient data retrieval.
 
 ### Keyword Network Analysis and Word Frequency Analysis 2021-2022
-![Keyword Network GIF](URL to Keyword Network GIF)
+
 - Extracted keyword data from Twitter datasets.
 - Tested word frequencies and created bigram network graphs.
 
 ### Big Data Processing and Analysis Using Pyspark and Pandas
-![Big Data Analysis GIF](URL to Big Data Analysis GIF)
+
 - Processed and analyzed a large dataset of 2.5 million rows using Pyspark and Pandas.
 
 ### Driver Drowsiness System
-![Drowsiness System GIF](URL to Drowsiness System GIF)
+
 - Devised an ML model for identifying eye state using OpenCV.
 - Achieved recognition accuracy of 70% to 82% with CNN.
 
 ### Runkeeper Fitness Data Prediction
-![Fitness Data Prediction GIF](URL to Fitness Data Prediction GIF)
+
 - Deployed time-series analysis and ML algorithms on Runkeeper fitness data.
 - Identified key insights and improved prediction accuracy by 20%.
 
 ### Financial Fraud Detection
-![Fraud Detection GIF](URL to Fraud Detection GIF)
+
 - Architected a credit card fraud detection system using Python and ML techniques.
 - Achieved 92% accuracy with feature selection and model optimization.
 
@@ -92,7 +111,7 @@ Welcome to my data universe! I'm Kushagra, a dedicated Data Analytics Engineer c
 - **Using Python to Access Web Data** (Coursera - Sep 2020)
 - **Getting Started with Python** (Coursera - Aug 2020)
 - **Python Data Structures** (Coursera - Aug 2020)
-- Add other courses...
+
 
 ## 🌐 Let's Connect!
 
