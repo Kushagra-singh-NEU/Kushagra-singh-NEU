@@ -12,7 +12,7 @@ Welcome to my data universe! I'm Kushagra, a dedicated Data Analytics Engineer c
 - 🌱 Enthusiastic about leveraging data to extract meaningful insights and drive strategic decision-making.
 - 💡 Passionate about staying on the cutting edge of data science and technology.
 
-![Data Science GIF](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdnl.iconscout.com%2Flottie%2Fpremium%2Fthumb%2Fdata-science-system-8241500-6590107.gif&tbnid=_nRFs6VGpxi4mM&vet=12ahUKEwjhiZ_Ew4OEAxW4JGIAHR2tCjMQMyhCegUIARC9Ag..i&imgrefurl=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Finfographic-science&docid=r_yg-bnvCXu-kM&w=274&h=274&q=data%20science%20gif&ved=2ahUKEwjhiZ_Ew4OEAxW4JGIAHR2tCjMQMyhCegUIARC9Ag)
+![Data Science GIF]([https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdnl.iconscout.com%2Flottie%2Fpremium%2Fthumb%2Fdata-science-system-8241500-6590107.gif&tbnid=_nRFs6VGpxi4mM&vet=12ahUKEwjhiZ_Ew4OEAxW4JGIAHR2tCjMQMyhCegUIARC9Ag..i&imgrefurl=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Finfographic-science&docid=r_yg-bnvCXu-kM&w=274&h=274&q=data%20science%20gif&ved=2ahUKEwjhiZ_Ew4OEAxW4JGIAHR2tCjMQMyhCegUIARC9Ag](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5769fc401b631bab1addb2ab%2F1541580611624-TE64QGKRJG8SWAIUS7NS%2Fke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o%2Fcoding-freak.gif&tbnid=dbrfb5dvHO4gVM&vet=12ahUKEwjdkMTlw4OEAxVjOlkFHUcYDSIQMygAegQIARBN..i&imgrefurl=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&docid=CJdgcKdcN0j58M&w=800&h=600&q=coding%20gip%20for%20github&ved=2ahUKEwjdkMTlw4OEAxVjOlkFHUcYDSIQMygAegQIARBN))
 
 ## 🎓 Education
 
