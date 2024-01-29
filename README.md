@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Kushagra Singh Sisodiya
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kushagra-singh-sisodiya/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kushagra-sisodiya/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-brightgreen)](https://www.datascienceportfol.io/kushagrasisodiya)
 [![Tableau Public](https://img.shields.io/badge/Tableau%20Public-View-blue)](https://public.tableau.com/app/profile/kushagra.singh.sisodiya/vizzes)
 
