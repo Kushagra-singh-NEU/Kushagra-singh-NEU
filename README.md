@@ -18,7 +18,7 @@ Welcome to my data universe! I'm Kushagra, a dedicated Data Analytics Engineer c
 - 🎓 **Master's in Data Analytics Engineering**
   - Northeastern University, Boston, Massachusetts
   - Sep 2022 - May 2024
-  - **Courses:** Database Management & Design, Data Mining, Computation and Visualization, Machine Learning, Engineering Project Management, Foundation of Data Analytics, Operational Research, and more.
+  - **Courses:** Database Management & Design, Data Mining, Computation and Visualization, Machine Learning, Engineering Project Management, Foundation of Data Analytics, Operational Research.
  
 
 ## 🛠️ Skills
