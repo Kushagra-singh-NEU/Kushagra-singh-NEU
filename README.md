@@ -39,11 +39,6 @@ Welcome to my data universe! I'm Kushagra, a dedicated Data Analytics Engineer c
 
 ## 🚀 Featured Projects
 
-### Customer Segmentation with Machine Learning
-
-- Implemented unsupervised machine learning for customer segmentation.
-- Achieved a 20% increase in sales revenue and improved customer loyalty.
-
 ### Formula 1 Data Analysis and Reporting
 
 - Automated Formula 1 racing data ingestion, reducing time by 50%.
@@ -77,6 +72,11 @@ Welcome to my data universe! I'm Kushagra, a dedicated Data Analytics Engineer c
 ### Big Data Processing and Analysis Using Pyspark and Pandas
 
 - Processed and analyzed a large dataset of 2.5 million rows using Pyspark and Pandas.
+  
+### Customer Segmentation with Machine Learning
+
+- Implemented unsupervised machine learning for customer segmentation.
+- Achieved a 20% increase in sales revenue and improved customer loyalty.
 
 ### Driver Drowsiness System
 
