@@ -49,6 +49,26 @@ Welcome to my data universe! I'm Kushagra, a dedicated Data Analytics Engineer c
 - Leveraged Azure Data Factory for exploratory analysis on COVID-19 data.
 - Optimized Power BI dashboards for regional-wise and demographic-wise trend analysis.
 
+## Tableau Project: King County Real Estate Dashboard 🏠📊
+
+- Explore King County Washington's real estate trends with my interactive Tableau dashboard! Featuring a calendar widget for dynamic filtering, this 
+  project showcases visuals like line charts, histograms, a map, and a heatmap. 🌐🗓️
+
+## COVID-19 Global Vaccine Tracker
+
+- Kushagra Singh Sisodiya's COVID-19 Vaccine Tracker displays real-time global vaccination data with interactive charts, a world map, and customizable 
+  features, offering concise insights into vaccine distribution and coverage.
+
+## Incident Data Analysis
+
+- Leveraging a robust incident data set, I crafted a compelling story using Tableau, unraveling trends in resolution lifecycles. Through insightful 
+  visualizations, the story provides a nuanced perspective, highlighting key metrics and optimizing incident management strategies.
+
+## Steel Industry Energy Consumption Analysis
+
+- Unveiled Steel industry energy trends, spotlighting daily averages, CO2 peak months, and the impact of inductive vs. capacitive loads on power loss. 
+  A brief visual story offers key insights into energy dynamics.
+
 ### South Korea Steel Industry Data Analysis
 
 - Conducted exploratory data analysis on 35,000+ records.
