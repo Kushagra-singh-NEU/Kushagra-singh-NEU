@@ -48,7 +48,7 @@ Welcome to my data universe! I'm Kushagra, a dedicated Data Analytics Engineer c
 - Executed quality assurance tests on new integrations in SQL Server, enhancing data governance and reliability from multiple sources by 12%.
 - Excelled in Tableau, leveraging advanced data visualization skills to enhance understanding of complex data trends and patterns, resulting in a 15% improvement in actionable insights and decision-making accuracy.
 
-### Business Analyst Intern | Jan 2021 - Aug 2021
+### Data Analyst Intern | Jan 2021 - Aug 2021
 
 - Spearheaded the design and management of a Redshift data warehouse, driving a 30% improvement in BI reporting.
 - Enhanced business requirements analysis through complex SQL queries.
