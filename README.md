@@ -40,18 +40,10 @@ Welcome to my data universe! I'm Kushagra, a dedicated Data Analytics Engineer c
 
 ## Sky Technosoft, India
 
-### Data Analytics Engineer | Sep 2021 - Aug 2021
+### Data Analytics Engineer | Dec 2020 - Aug 2022
 
-- Engineered end-to-end data pipelines using Python, PySpark, Airflow, and SQL, achieving a 21% reduction in runtime.
-- Ensured heightened data quality and consistency through robust integrity checks.
-- Crafted data warehousing solutions, creating SQL scripts and delivering functional documentation for self-service Business Intelligence on Talent data.
-- Executed quality assurance tests on new integrations in SQL Server, enhancing data governance and reliability from multiple sources by 12%.
-- Excelled in Tableau, leveraging advanced data visualization skills to enhance understanding of complex data trends and patterns, resulting in a 15% improvement in actionable insights and decision-making accuracy.
+### Data Analyst  | May 2020 - Dec 2020
 
-### Data Analyst Intern | Jan 2021 - Aug 2021
-
-- Spearheaded the design and management of a Redshift data warehouse, driving a 30% improvement in BI reporting.
-- Enhanced business requirements analysis through complex SQL queries.
 
 
 ## 🚀 Featured Projects
