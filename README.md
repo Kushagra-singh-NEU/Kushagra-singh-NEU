@@ -40,7 +40,7 @@ Welcome to my data universe! I'm Kushagra, a dedicated Data Analytics Engineer c
 
 ## Sky Technosoft, India
 
-### Data Analytics Engineer | Dec 2020 - Aug 2022
+### Senior Data/BI Analyst | Dec 2020 - Aug 2022
 
 - Engineered end-to-end ETL data pipelines using Python and SQL, achieving a 21% reduction in runtime and ensuring heightened data quality and consistency through robust integrity checks
 - Executed quality assurance tests on new integrations in SQL Server, enhancing data governance and reliability from multiple sources by 12%
