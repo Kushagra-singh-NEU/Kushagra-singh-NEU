@@ -47,7 +47,7 @@ Welcome to my data universe! I'm Kushagra, a dedicated Data Analytics Engineer c
 - Excelled in Tableau, leveraging advanced data visualization skills to enhance understanding of complex data trends and patterns, resulting in a 15% improvement in actionable insights and decision-making accuracy
 - Collaborated with stakeholders to translate business processes into BI specifications, resulting in a 15% increase in system understanding, and effectively communicated technical concepts to non-technical stakeholders
 
-### Data Analyst  | May 2020 - Dec 2020
+### Data/BI Analyst  | May 2020 - Dec 2020
 
 - Spearheaded the design and management of a Redshift data warehouse, driving a 30% improvement in BI reporting and enhanced business requirements analysis through complex SQL queries
 - Created 15+ interactive dashboards using Power BI and DAX, monitored 25 key performance indicators (KPIs), leading to 12% increase in forecast accuracy and improved data management process
