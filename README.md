@@ -38,6 +38,13 @@ Welcome to my data universe! I'm Kushagra, a dedicated Data Analytics Engineer c
  
 # Professional Experience
 
+## KeelWorks, Boston, MA
+
+### Data Analyst | Jul 2024 - Present
+
+-	Developed and maintained interactive Tableau dashboards, visualizing key talent acquisition metrics and KPIs, resulting in a 20% improvement in strategic decision-making by highlighting trends and forecasting needs
+-	Leveraged SQL and Excel to extract, transform, and analyze talent data, optimizing data integrity processes and reducing report generation time by 18%, enhancing the efficiency of TA operations
+
 ## Sky Technosoft, India
 
 ### Senior Data/BI Analyst | Dec 2020 - Aug 2022
